@@ -8,7 +8,7 @@ I'm Ketan Kushwah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelket23&label=Profile%20views&color=0e75b6&style=flat"
         alt="joelket23" /> </p>
 
-- 🌱 I’m currently learning **React Native
+- 🌱 I’m currently learning🧑‍💻 React Native
 
 - 💬 Ask me about **Next.js, Go, Android**
 
