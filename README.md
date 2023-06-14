@@ -95,5 +95,4 @@ I'm Ketan Kushwah</h1>
         src="https://github-readme-stats.vercel.app/api/top-langs?username=joelket23&show_icons=true&locale=en&layout=compact"
         alt="joelket23" /></p>
 
-<p>&nbsp;
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joelket23&" alt="joelket23" /></p>
