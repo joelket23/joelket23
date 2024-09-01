@@ -12,7 +12,7 @@ I'm Ketan Kushwah</h1>
 
 - 💬 Ask me about **Next.js, Go, Android**
 
-- 💼 Check out my [portfolio](https://portfolio.ketankushwah025-dev8968.workers.dev)
+- 💼 Check out my [portfolio](https://ketan-portfolio.pages.dev)
 
 - 📫 How to reach me **kushwahketan11+dev@gmail.com**
 
